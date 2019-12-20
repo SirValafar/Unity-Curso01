@@ -14,7 +14,7 @@ https://www.udemy.com/course/unity2019/
 1. Control del Enemigo
   - Enemigo con metodo de patrulla cono sin orden
   - Persecución 
-1. Utilice GameObject
+1. Utilizacion de GameObject
 1. Utilizacion de Trigger
 1. Colisiones fisicas
 1. Utilizacion de Input
